@@ -1,8 +1,6 @@
 # Plants vs Zombies Portable (PortMaster-Only Package)
 
-Portable package layout and launcher for **Plants vs Zombies**.
-
-This repository is intended only for **PortMaster** on Linux-based retro gaming devices and firmware (for example AmberELEC and ROCKNIX), plus related handheld distributions compatible with PortMaster.
+This repository is intended only for **PortMaster** on Linux-based retro gaming devices and firmware (for example AmberELEC and ROCKNIX), plus related handheld distributions compatible with [PortMaster](https://portmaster.games/).
 
 > This repository does **NOT** contain any copyrighted game assets (such as images, music, or fonts) owned by PopCap Games or Electronic Arts. Users must provide their own `main.pak` and `properties/` folder from a **legally purchased copy** of Plants vs. Zombies: GOTY Edition.
 
