@@ -1,0 +1,46 @@
+{
+    "version": 4,
+    "name": "PvZ-Portable.zip",
+    "items": [
+        "Plants vs Zombies Portable.sh",
+        "PvZ-Portable/"
+    ],
+    "items_opt": null,
+    "attr": {
+        "title": "Plants vs Zombies Portable",
+        "desc": "Plants vs Zombies Portable version (Win / Linux / Switch)",
+        "inst": "Files Needed.",
+        "genres": [
+            "puzzle"
+        ],
+        "porter": [
+            "wuhanstudio"
+        ],
+        "image": {
+            "screenshot": "screenshot.jpg",
+            "covers": [],
+            "thumbnail": null,
+            "video": null
+        },
+        "rtr": true,
+        "runtime": [],
+        "reqs": [],
+        "arch": [
+            "aarch64"
+        ],
+        "desc_md": null,
+        "inst_md": null,
+        "exp": false,
+        "min_glibc": ""
+    },
+    "status": {
+        "source": "PortMaster",
+        "md5": "cc5bc1e280a044c3b13252decb6ecc2a",
+        "status": "Installed"
+    },
+    "files": {
+        "port.json": "PvZ-Portable/port.json",
+        "Plants vs Zombies Portable.sh": "Plants vs Zombies Portable.sh",
+        "PvZ-Portable/": "PvZ-Portable/"
+    }
+}
