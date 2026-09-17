@@ -3,6 +3,9 @@
   <game>
     <path>./Plants vs Zombies Portable.sh</path>
     <name>Plants vs Zombies Portable</name>
+    <desc>Plants vs. Zombies is a classic 2009 tower defense game by PopCap Games where you use an army of quirky, zombie-zapping plants to protect your suburban house from a horde of the undead.</desc>
+    <publisher>PopCap</publisher>
+    <genre>Puzzle</genre>
     <image>./PvZ-Portable/screenshot.jpg</image>
   </game>
 </gameList>

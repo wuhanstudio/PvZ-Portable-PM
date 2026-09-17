@@ -8,8 +8,8 @@
     "items_opt": null,
     "attr": {
         "title": "Plants vs Zombies Portable",
-        "desc": "Plants vs Zombies Portable version (Win / Linux / Switch)",
-        "inst": "Files Needed.",
+        "desc": "Plants vs. Zombies is a classic 2009 tower defense game by PopCap Games where you use an army of quirky, zombie-zapping plants to protect your suburban house from a horde of the undead.",
+        "inst": "Files Needed. Requires the user's access to the official game and copy main.pak and properties/ folder to PvZ-Portable folder",
         "genres": [
             "puzzle"
         ],
@@ -22,8 +22,8 @@
             "thumbnail": null,
             "video": null
         },
-        "rtr": true,
-        "runtime": [],
+        "rtr": false,
+        "runtime": null,
         "reqs": [],
         "arch": [
             "aarch64"
@@ -31,16 +31,5 @@
         "desc_md": null,
         "inst_md": null,
         "exp": false,
-        "min_glibc": ""
     },
-    "status": {
-        "source": "PortMaster",
-        "md5": "cc5bc1e280a044c3b13252decb6ecc2a",
-        "status": "Installed"
-    },
-    "files": {
-        "port.json": "PvZ-Portable/port.json",
-        "Plants vs Zombies Portable.sh": "Plants vs Zombies Portable.sh",
-        "PvZ-Portable/": "PvZ-Portable/"
-    }
 }
